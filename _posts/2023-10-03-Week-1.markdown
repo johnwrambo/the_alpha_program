@@ -1,0 +1,28 @@
+---
+layout: post
+title:  "Week 1"
+date:   2023-10-03 
+categories: jekyll update
+---
+
+<blockquote>
+    Know thyself.
+    <cite>First Maxim of Delphi</cite>
+</blockquote>
+
+[Video Primer On Self-Awareness, William L. Sparks, Ted Talk][Video-Primer]{:target="_blank"}
+
+
+# Self-assessment
+
+To start off this week, let’s take some time to self-reflect, generally and broadly on what areas of your life that you think need improving. If you are anything like me, you are already likely very aware of the things you should stop doing and the things you should start doing. Start by writing those things down. If you’re married, and you’re feeling brave, ask your wife how she thinks you could improve. Be open to criticism, hear her out. Encourage her not to pull any punches and to be as blunt and as honest as possible. For prompting, you might ask her how you could better increase your appearance, your overall attractiveness to her, how she sees you. This could include style, grooming, fitness, career or all of it. Ask her what she wishes you would stop doing, asking her what things she wishes you would start doing. She might say things that you are already aware of, but hearing it from her, I believe will have a more impactful effect on you. If you are not married, you could ask someone close to you what they think you could do to improve yourself. This might be a difficult question, both to ask and to answer, but if you have the right friend and you can both be honest, this might be helpful. Take what they say with a grain of salt however, as a friend’s opinion can never be as valuable as a wife’s, but it’s not worthless. There might be something that he or she says that could be of use. 
+
+The goal of this week is to help create a sense of self-awareness. If we are not aware of where we are or who we are it will be very difficult to move forward in any meaningful and beneficial manner. In our groups this weeks, lets discuss our findings. 
+
+# Discussion Question: 
+What areas of my life need improvement? What goal/s would I like to set for my life? What things do I need to quit, or do less of? What things do I want/need to start, or do more of?
+
+# Homework 
+Self-reflect on these things and write them down. Find a blindspot or weakness you were previously unaware of. 
+
+[Video-Primer]: https://www.youtube.com/watch?v=R9qVa4LoJx8
