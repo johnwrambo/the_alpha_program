@@ -13,6 +13,8 @@ categories: jekyll update
 
 [Video Primer #2 On Self-Awareness, Tasha Euric, Ted Talk][Video-Primer]{:target="_blank"}
 
+<a href="Organize_Template_Example.xlsx" download>Download Organization Spreadsheet</a>
+
 
 # Self-assessment Part II
 
@@ -57,3 +59,4 @@ What do you believe? Do you know what you believe and why? If you lack a solid b
 Discuss the previous weeks homework concerning self-reflection and your attempt to discover new about yourself. Did you find out anything new? Review the exercise for the week and discuss. 
 
 [Video-Primer]: https://www.youtube.com/watch?v=tGdsOXZpyWE
+[Download PDF](Organize_Template_Example.xlsx)
