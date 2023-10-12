@@ -7,8 +7,8 @@ categories: jekyll update
 ---
 
 <blockquote>
-    Know thyself.
-    <cite>First Maxim of Delphi</cite>
+    “Anxiety is caused by a lack of control, organization, preparation, and action.”
+    <cite>David Kekich</cite>
 </blockquote>
 
 [Video Primer #2 On Self-Awareness, Tasha Euric, Ted Talk][Video-Primer]{:target="_blank"}
