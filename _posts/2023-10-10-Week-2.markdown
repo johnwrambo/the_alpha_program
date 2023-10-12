@@ -8,7 +8,7 @@ categories: jekyll update
 
 <blockquote>
     “Anxiety is caused by a lack of control, organization, preparation, and action.”
-    <cite>David Kekich</cite>
+    <cite>—David Kekich</cite>
 </blockquote>
 
 [Video Primer #2 On Self-Awareness, Tasha Euric, Ted Talk][Video-Primer]{:target="_blank"}
