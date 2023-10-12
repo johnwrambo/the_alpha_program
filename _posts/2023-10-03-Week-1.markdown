@@ -7,7 +7,7 @@ categories: jekyll update
 
 <blockquote>
     Know thyself.
-    <cite>First Maxim of Delphi</cite>
+    <cite>—First Maxim of Delphi</cite>
 </blockquote>
 
 [Video Primer On Self-Awareness, William L. Sparks, Ted Talk][Video-Primer]{:target="_blank"}
