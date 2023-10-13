@@ -13,8 +13,6 @@ categories: jekyll update
 
 [Video Primer #2 On Self-Awareness, Tasha Euric, Ted Talk][Video-Primer]{:target="_blank"}
 
-<a href="https://docs.google.com/spreadsheets/d/1540OWR_ovXGzMKe52IwYAkiUbdNfrvl2/edit?usp=drive_link&ouid=116126842740869295492&rtpof=true&sd=true" download>Download Organization Spreadsheet</a>
-
 
 # Self-assessment Part II
 
@@ -57,5 +55,10 @@ What do you believe? Do you know what you believe and why? If you lack a solid b
 
 # Discussion Question: 
 Discuss the previous weeks homework concerning self-reflection and your attempt to discover new about yourself. Did you discover any blindspots? Review the exercise for the week and discuss. 
+
+# Homework 
+Download and complete the spreadsheet.
+<a href="https://docs.google.com/spreadsheets/d/1540OWR_ovXGzMKe52IwYAkiUbdNfrvl2/edit?usp=drive_link&ouid=116126842740869295492&rtpof=true&sd=true" download>Download Organization Spreadsheet</a>
+
 
 [Video-Primer]: https://www.youtube.com/watch?v=tGdsOXZpyWE
