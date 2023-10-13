@@ -23,7 +23,7 @@ email: admin@projectvirtue.org
 description: >- # this means to ignore newlines until "baseurl:"
   The Alpha Program is designed to help you achieve your most basic and highest goals. 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "the_alpha_program" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: 
 github_username:  
 
