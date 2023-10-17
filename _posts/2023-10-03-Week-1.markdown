@@ -5,10 +5,10 @@ date:   2023-10-03
 categories: TAP
 ---
 
-<blockquote>
-    Know thyself.
-    <cite>—First Maxim of Delphi</cite>
+<blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
+    <strong style="color: black;">“Know thyself.”</strong>
 </blockquote>
+<cite style="text-align: right; display: block;">—First Maxim of Delphi</cite>
 
 [Video Primer On Self-Awareness, William L. Sparks, Ted Talk][Video-Primer]{:target="_blank"}
 

@@ -41,5 +41,6 @@ Anxiety is caused by a lack of control, organization, preparation, and action.
 </cite>
 </blockquote>
 
-
-
+<blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: left; color: black;">
+   The real problem is a lack of clarity and definition about what a project really is, and what the associated next-action steps required are. Clarifying things on the front end, when they first appear on the radar, rather than on the back end, after trouble has developed, allows people to reap the benefits of managing action.
+</blockquote>
