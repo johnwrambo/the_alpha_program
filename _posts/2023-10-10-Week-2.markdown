@@ -12,8 +12,7 @@ categories: TAP
 <cite style="text-align: right; display: block;">—David Kekich</cite>
 
 
-[Video Primer #2 On Self-Awareness, Tasha Euric, Ted Talk][Video-Primer]{:target="_blank"}
-
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/tGdsOXZpyWE?si=YcalIW-h4WQZAZAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Self-assessment Part II
 

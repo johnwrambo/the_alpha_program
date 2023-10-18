@@ -10,8 +10,7 @@ categories: TAP
 </blockquote>
 <cite style="text-align: right; display: block;">—First Maxim of Delphi</cite>
 
-[Video Primer On Self-Awareness, William L. Sparks, Ted Talk][Video-Primer]{:target="_blank"}
-
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/R9qVa4LoJx8?si=ba9K7Jv3_sANbF4J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Self-assessment
 
@@ -26,3 +25,4 @@ What areas of my life need improvement? What goal/s would I like to set for my l
 Self-reflect on these things and write them down. Find a blindspot or weakness you were previously unaware of. 
 
 [Video-Primer]: https://www.youtube.com/watch?v=R9qVa4LoJx8
+
