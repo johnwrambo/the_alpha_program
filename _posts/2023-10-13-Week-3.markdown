@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 3"
-date:   2023-10-13
+date:   2023-10-15
 categories: TAP
 ---
 
@@ -11,9 +11,10 @@ categories: TAP
 </blockquote>
 <cite style="text-align: right; display: block;">—Jordan Petersen</cite>
 
-
-
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/AIGyXb9VpMc?si=Q4051tbNQvaRIdVD" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/shFbWTEZx_w?si=uzxB7SDD99-pQdK-" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 
 # Goal setting, mision and vision
 
