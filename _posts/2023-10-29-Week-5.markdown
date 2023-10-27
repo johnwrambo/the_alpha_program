@@ -4,6 +4,7 @@ title:  "Week 5: Habits"
 date:   2023-10-24
 categories: TAP
 ---
+
 <blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
     <strong style="color: black;">“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”</strong>
 </blockquote>
@@ -17,40 +18,44 @@ categories: TAP
 
 **Who do you want to be?**
 
-Charles Duhigg and James Clear are two of the leading writers concerning habit formation. I highly reccomend both of thier books, The Power of Habit and Atomic Habits repsectively. This weeks content will be attempt to summarize the most important parts of thier works.
+Charles Duhigg and James Clear are two of the leading writers concerning habit formation. I highly recommend both of their books, "The Power of Habit" and "Atomic Habits," respectively. This week's content will attempt to summarize the most important parts of their works.
 
-The Power of Habit, is more of an acedmic work, while Atomic Habits is more of a practical book, and Clear even cites Duhigg in his book.  
+"The Power of Habit" is more of an academic work, while "Atomic Habits" is more practical, and Clear even cites Duhigg in his book.
 
-The most important thing when it comes to character developement is recoginzing the that we are the things that we do. And the things that we do the most are the things that will shape us the most, and the things that we do the most, are the habits that we keep. So if we want to change our character, then we simply need to change our habits. Of course easier said than done. 
+The most important thing when it comes to character development is recognizing that we are the things that we do. The things that we do the most are the things that will shape us the most, and the things that we do the most are the habits that we keep. So if we want to change our character, then we simply need to change our habits. Of course, easier said than done.
 
+So, who do you want to be? Men are not known for the fact that they simply existed; they are known for the things they did. And for every Caesar who crossed the Rubicon, there were a thousand smaller rivers crossed before that. So who you want to be will be defined by what you do, and again, by the habits you keep.
 
-So, who do you want to be. Men are not known for the fact that they existed, they are known for the things they did. And for every Ceasear who crossed the Rubicon, was a thousand smaller rivers crossed before that. So who you want to be will be define by what you do and again, by the habits you keep. 
+Goal setting, then, is absolutely necessary, but if you have ever set a goal and failed to complete it, you may be all too acutely aware that it's simply not enough to just set a goal. What you need is a plan to get there, and that is where thinking about and crafting your habits deliberately comes into play.
 
-Goal setting then is absoluty neccessary, but if you have ever set a goal, and failed to complete it, you may be all to acutley aware that it's simply not enough to just simply set a goal. What you need is a plan to get there, and that is where thinking about and crafting your habits deliberately comes into play. 
+Fitness is a great example of self-improvement because it is physical and visible, and it follows all the principles of goal setting and habits in the most obvious manner. The skills built in fitness. There is the concept of progressive overload in weight lifting. The simple principle of just adding a little extra weight or doing a couple of extra reps each time. Incrementally making each exercise more difficult.
 
-Fitness is a great example of self improvement becuase it physcial and visibal, and it follows all of the principles of goals setting and habits in the most obvious manner. The skills built in fitness. There is the concept of progressive overload in weight lifting. The simple principle of just adding a little extra weight, or doing a couple extra reps each time. Incrementally making each exercise more difficult. 
+Charles Duhigg describes the habit loop as: cue, routine, reward.
 
-Charles Duhigg describes the habit loop as: cue , routine, reward. 
+You see a cookie (cue), you eat the cookie (routine), you experience the dopamine from the sugar (reward). Some kind of dopamine is almost always the reward so far as I can tell. It's important to understand how habits work in order to best understand how to both form new habits and to break bad habits or addiction, which we will discuss next week. For now, we will mainly focus on building new and desirable habits.
 
-You see a cookie (cue), you eat the cookie (routine), you experience the dopamine from the sugar (reward). Some kind of dopamine is almost always the reward so far as I can tell. It's important to understand how habit's work in order to best understand how to both, form new habits and to break bad habbits or addiction, which we will discuss next week. For now we will mainly focus on building new and desireble habits. 
+It is essential we really know who we want to be, in the words of Jordan Peterson, that our goals are sharp and clear. And our goals should be a function of who we want to be, so it is further essential that we know who that is. The habits that we want to form should be centered on the idea of identity. Becoming someone who is fit, becoming someone who is intelligent, becoming someone who is financially independent, Clear says.
 
-One thing you should notice, if you havent noticed yet, is that with everything we are doing and trying to do, has to deal with thinking about things on a higher level. We want to take time to exercise deliberate exectutive thinking. To take time regularly to anticipate and plan what we are going to do and how we are going to do them. Most of our lives are lived out on automatic, auto-pilot. Most of decicions already decided, even if they weren't decided deliberalty. Think about writing a program for yourself, a script that you will follow when presented with various situations, or at various times of the day. 
-James Clear has 4 Rules for goal setting. 
+- The goal is not to read a book; the goal is to become a reader.
+- The goal is not to run a marathon; the goal is to become a runner.
+- The goal is not to learn an instrument; the goal is to become a musician.
 
+One thing you should notice, if you haven't noticed yet, is that with everything we are doing and trying to do, has to deal with thinking about things on a higher level. We want to take time to exercise deliberate executive thinking. To take time regularly to anticipate and plan what we are going to do and how we are going to do them. Most of our lives are lived out on automatic, auto-pilot. Most of decisions already decided, even if they weren't decided deliberately. Think about writing a program for yourself, a script that you will follow when presented with various situations, or at various times of the day.
+
+James Clear has 4 Rules for goal setting.
 
 **Make it Obvious**
-Think about the habits you want to make, and think about ways to make, at least being reminded of the habit, unavoidable. If you want to remember to take something with you to work everyday, maybe keep that thing with your keys, then you wouldn't even be able to leave the house without seeing it. Or perhaps it's leaving a book on your nightstand to remind yourself to read before you go to bed. 
+Think about the habits you want to make, and think about ways to make, at least being reminded of the habit, unavoidable. If you want to remember to take something with you to work every day, maybe keep that thing with your keys, then you wouldn't even be able to leave the house without seeing it. Or perhaps it's leaving a book on your nightstand to remind yourself to read before you go to bed.
 
 **Make it Attractive**
-This may not awlays be possbile or easy, but the two methods Clear descibes are habit stacking and habit bundling, which is pairing a new good habit, with another indulgent, but non-desctructive habit, such as watching tv shows while on a cardio machine, which is something I have actually done with great effectivenesss. I watched the entire Game of Thrones series while doing cardio in the gym. 
-
+This may not always be possible or easy, but the two methods Clear describes are habit stacking and habit bundling, which is pairing a new good habit with another indulgent but non-destructive habit, such as watching TV shows while on a cardio machine, which is something I have actually done with great effectiveness. I watched the entire Game of Thrones series while doing cardio in the gym.
 
 **Make it Easy**
-Make you habit goals something that is literally easy to do, Clear uses the example of making it your goal to simply go outside and put on your running shoes rather than setting a goal of running for any particular time or distance. But as you progress, you then can naturally add to you goal by adding more and more. 
+Make your habit goals something that is literally easy to do. Clear uses the example of making it your goal to simply go outside and put on your running shoes rather than setting a goal of running for any particular time or distance. But as you progress, you can naturally add to your goal by adding more and more.
 
-**Make it Satisfying**  
-This really might just come down to a shift in mindset. There may not be anything inherently satisfying about getting up at 415 AM to be CrossFit at 5 AM, but I have found it to be incredibly satisfying to be done with my workout for the day by 6AM having not to worry about it for the rest of the day. This might be hard when you first start, but the main thing here is to rememeber the long term goal you are working towards, and realize that you may not be satisfied right now, but future you will be benefit and be satisfied by the sacrifices that current you is making my waking up at 5AM. And with respect to exercies at least, stick with it long enough, and slowly you will eventually begin to see results. And as you begin to associate your exercise with the phyiscal and very real results that you see in the mirror, it will become more satisfying and easier to continue.
-
+**Make it Satisfying**
+This really might just come down to a shift in mindset. There may not be anything inherently satisfying about getting up at 415 AM to be CrossFit at 5 AM, but I have found it to be incredibly satisfying to be done with my workout for the day by 6 AM, having not to worry about it for the rest of the day. This might be hard when you first start, but the main thing here is to remember the long-term goal you are working towards and realize that you may not be satisfied right now, but future you will benefit and be satisfied by the sacrifices that current you is making by waking up at 5 AM. And with respect to exercise, at least, stick with it long enough, and slowly you will eventually begin to see results. And as you begin to associate your exercise with the physical and very real results that you see
+in the mirror, it will become more satisfying and easier to continue.
 
 <center><strong>Habit Formulas</strong></center>
 
@@ -60,7 +65,7 @@ This really might just come down to a shift in mindset. There may not be anythin
             When <strong>[X]</strong> happens, I will do <strong>[Y]</strong>
         </p>
         <p style="margin: 0 0 10px;">
-            I will <strong>[BEHAVIOUR]</strong> at <strong>[TIME]</strong> in <strong>[LOCATION]</strong>
+            I will <strong>[BEHAVIOR]</strong> at <strong>[TIME]</strong> in <strong>[LOCATION]</strong>
         </p>
         <p style="margin: 0 0 10px;">
             After <strong>[CURRENT HABIT]</strong>, I will <strong>[NEW HABIT]</strong>.
@@ -71,14 +76,10 @@ This really might just come down to a shift in mindset. There may not be anythin
     </div>
 </div>
 
-
-
-
-
 # Discussion
 
-Did anything from the videos ressonate with you? What has your experiences with habits been? Have you ever succefully started a new habit that was historically difficult for you? How did you accomplish this?
+Did anything from the videos resonate with you? What has your experiences with habits been? Have you ever successfully started a new habit that was historically difficult for you? How did you accomplish this?
 
 # Homework
 
-Pick 3 of your goals, and map out a possible progression with benchmarks. For each goal, you should associate a regular habit or exercise. Try to map out at least 3 stages. I am going to borrow again from James Clear, he gives an example of someone who wants to run a long distance race, so his goal that he set was to simply put on his running shoes and then step outside. 
+Pick 3 of your goals and map out a possible progression with benchmarks. For each goal, you should associate a regular habit or exercise. Try to map out at least 3 stages. I am going to borrow again from James Clear; he gives an example of someone who wants to run a long-distance race, so his goal that he set was to simply put on his running shoes and then step outside.
