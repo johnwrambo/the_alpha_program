@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Week 1"
-date:   2023-10-03 
+title:  "Week 1: Self-Awareness"
+date:   2023-10-01 
 categories: TAP
+description: "Self-assessment"
 ---
 
 <blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
@@ -12,7 +13,9 @@ categories: TAP
 
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/R9qVa4LoJx8?si=ba9K7Jv3_sANbF4J" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Self-assessment
+# Self-awareness 
+
+**Where are you at?**
 
 To start off this week, let’s take some time to self-reflect, generally and broadly on what areas of your life that you think need improving. If you are anything like me, you are already likely very aware of the things you should stop doing and the things you should start doing. Start by writing those things down. If you’re married, and you’re feeling brave, ask your wife how she thinks you could improve. Be open to criticism, hear her out. Encourage her not to pull any punches and to be as blunt and as honest as possible. For prompting, you might ask her how you could better increase your appearance, your overall attractiveness to her, how she sees you. This could include style, grooming, fitness, career or all of it. Ask her what she wishes you would stop doing, asking her what things she wishes you would start doing. She might say things that you are already aware of, but hearing it from her, I believe will have a more impactful effect on you. If you are not married, you could ask someone close to you what they think you could do to improve yourself. This might be a difficult question, both to ask and to answer, but if you have the right friend and you can both be honest, this might be helpful. Take what they say with a grain of salt however, as a friend’s opinion can never be as valuable as a wife’s, but it’s not worthless. There might be something that he or she says that could be of use. 
 

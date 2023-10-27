@@ -1,0 +1,12 @@
+---
+layout: post
+title:  "Week 7: Organization"
+date:   2023-10-26
+categories: TAP
+---
+<blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
+    <strong style="color: black;">Anxiety is caused by a lack of control, organization, preparation, and action.</strong>
+</blockquote>
+<cite style="text-align: right; display: block;">—DAVID KEKICH</cite>
+
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/CHxhjDPKfbY?si=mj49uUuv0qTMDUsS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

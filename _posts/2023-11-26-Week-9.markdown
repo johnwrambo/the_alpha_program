@@ -1,0 +1,8 @@
+---
+layout: post
+title:  "Week 9: Discipline"
+date:   2023-10-26
+categories: TAP
+---
+
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/eBmVv2P-v2s?si=pZY2-lN50RG-8_SS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

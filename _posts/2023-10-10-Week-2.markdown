@@ -1,20 +1,20 @@
 ---
 layout: post
-title:  "Week 2"
-date:   2023-10-09 17:08:17 -0700
+title:  "Week 2:  Self-Assessment"
+date:   2023-10-08
 categories: TAP
 ---
 
 
 <blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
-    <strong style="color: black;">“Anxiety is caused by a lack of control, organization, preparation, and action.”</strong>
+    <strong style="color: black;">“Until you make the unconscious conscious, it will direct your life and you will call it fate.”</strong>
 </blockquote>
-<cite style="text-align: right; display: block;">—David Kekich</cite>
+<cite style="text-align: right; display: block;">—Carl Jung</cite>
 
 
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/tGdsOXZpyWE?si=YcalIW-h4WQZAZAM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Self-assessment Part II
+# Self-Assessment 
 
 **Overview**
 For the following, write down all of your findings. in your note taking platform of your choice, and use spreadsheets where applicable. 

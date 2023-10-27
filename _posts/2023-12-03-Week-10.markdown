@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Week 10: Strength"
+date:   2023-10-26
+categories: TAP
+---
+
+<blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
+    <strong style="color: black;">“The impediment to action advances action. What stands in the way becomes the way.”
+</strong>
+</blockquote>
+<cite style="text-align: right; display: block;">—MARCUS AURELIUS</cite>
+
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/y1lHP1Pf-xk?si=ZJrEJDYdrV8eieG_" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>

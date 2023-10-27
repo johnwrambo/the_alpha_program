@@ -1,0 +1,17 @@
+---
+layout: post
+title:  "Week 6: Addiction"
+date:   2023-10-24
+categories: TAP
+---
+
+
+<blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
+    <strong style="color: black;">"I count him braver who overcomes his desires than him who conquers his enemies; for the hardest victory is over self."</strong>
+</blockquote>
+<cite style="text-align: right; display: block;">—ARISTOTLE</cite>
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/d-0KfwFCMRM?si=I0oKU8nn3aRyxdvu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Addiction
+
+**Breaking the bad habits**
