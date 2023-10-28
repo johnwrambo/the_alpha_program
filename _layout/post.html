@@ -44,3 +44,8 @@ layout: default
     </div>
 </body>
 </html>
+
+{% for post in site.posts | reversed %}
+    <!-- Your post rendering code here -->
+{% endfor %}
+
