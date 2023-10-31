@@ -18,15 +18,21 @@ categories: TAP
 
 **Who do you want to be?**
 
-Charles Duhigg and James Clear are two of the leading writers concerning habit formation. I highly recommend both of their books, "The Power of Habit" and "Atomic Habits," respectively. This week's content will attempt to summarize the most important parts of their works. However there is no subsitute for reading the books themselves. "The Power of Habit" is more of an academic work, while "Atomic Habits" is more practical, and Clear even cites Duhigg in his book. 
+Charles Duhigg and James Clear are to leading writers concerning habit formation. I highly recommend both of their books, "The Power of Habit" and "Atomic Habits," respectively. This week's content will attempt to summarize the most important parts of their works. However there should be no subsitute for reading their books for yourself.
 
-The most important thing when it comes to character development is recognizing that we are the things that we do. The things that we do the most are the things that will shape us the most, and the things that we do the most are the habits that we keep. So if we want to change our character, then we simply need to change our habits. Of course, easier said than done.
+The most important thing when it comes to character development is recognizing that we are the things that we do. The things that we do the most, the most common behaviors, are the things that shape us the most, and the things that we do the most are the habits that we keep. So if we want to change our character, then we simply need to change our habits. Of course, this is easier said than done.
 
-So, who do you want to be? Men are not known for the fact that they simply existed; they are known for the things they did. And for every Caesar who crossed the Rubicon, there were a thousand smaller rivers crossed before that. So who you want to be will be defined by what you do, and again, by the habits you keep.
+So, who do you want to be? Men are not known for the fact that they simply existed; they are known for the things they have done. So who you want to be will be defined by what you do, those patterns of behaviors that you repeat again and again; the habits you keep.
 
-Goal setting, then, is absolutely necessary, but if you have ever set a goal and failed to complete it, you may be all too acutely aware that it's simply not enough to just set a goal. What you need is a plan to get there, and that is where thinking about and crafting your habits deliberately comes into play.
+Goal setting, then, is absolutely necessary to set your north star, but if you have ever set a goal and failed to complete it, you may be all too acutely aware that it's simply not enough to just set a goal. What you need is a path to get there, a plan to achieve your goal.
 
-Fitness is a great example of self-improvement because it is physical and visible, and it follows all the principles of goal setting and habits in the most obvious manner. The skills built in fitness. There is the concept of progressive overload in weight lifting. The simple principle of just adding a little extra weight or doing a couple of extra reps each time. Incrementally making each exercise more difficult.
+This is why the question of identity is important. Think about the examples James Clear provides here:
+
+- The goal is not to read a book; the goal is to become a reader.
+- The goal is not to run a marathon; the goal is to become a runner.
+- The goal is not to learn an instrument; the goal is to become a musician.
+
+Think about who you want to be, then think about what that person does. 
 
 Charles Duhigg describes the habit loop as: cue, routine, reward.
 
@@ -34,11 +40,8 @@ You see a cookie (cue), you eat the cookie (routine), you experience the dopamin
 
 It is essential we really know who we want to be, in the words of Jordan Peterson, that our goals are sharp and clear. And our goals should be a function of who we want to be, so it is further essential that we know who that is. The habits that we want to form should be centered on the idea of identity. Becoming someone who is fit, becoming someone who is intelligent, becoming someone who is financially independent, Clear says.
 
-- The goal is not to read a book; the goal is to become a reader.
-- The goal is not to run a marathon; the goal is to become a runner.
-- The goal is not to learn an instrument; the goal is to become a musician.
-
 One thing you should notice, if you haven't noticed yet, is that with everything we are doing and trying to do, has to deal with thinking about things on a higher level. We want to take time to exercise deliberate executive thinking. To take time regularly to anticipate and plan what we are going to do and how we are going to do them. Most of our lives are lived out on automatic, auto-pilot. Most of decisions already decided, even if they weren't decided deliberately. Think about writing a program for yourself, a script that you will follow when presented with various situations, or at various times of the day.
+
 
 James Clear has 4 Rules for goal setting.
 
@@ -84,3 +87,5 @@ Did anything from the videos resonate with you? What has your experiences with h
 # Homework
 
 Pick 3 of your goals and for each goal, you should associate at least one regular habit or exercise. Think about the identity goals discussed above. Use the habit formulas to create plans for each of your chosen habits. Pick at least one goal and habit to begin to practice this week. Use some method to track you habit. You can use a pen and paper, a spreadsheet, or an habit tracking app. I like the app Habit Share app. You can download [Habit Share here](https://habitshareapp.com)
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=jrambo0e-20&language=en_US&marketplace=amazon&region=US&placement=B07RFSSYBH&asins=B07RFSSYBH&linkId=ef30b2427e38db8d07df7c83d3d94c96&show_border=true&link_opens_in_new_window=true"></iframe>
