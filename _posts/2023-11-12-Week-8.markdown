@@ -5,15 +5,44 @@ date:   2023-10-26
 categories: TAP
 ---
 
+<blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
+    <strong style="color: black;">"Boorish people do boorish things. What’s strange or unheard-of about that? Isn’t it yourself you should reproach—for not anticipating that they’d act this way?"</strong>
+</blockquote>
+<cite style="text-align: right; display: block;">—MARCUS AURELIUS</cite>
+
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/ljqra3BcqWM?si=ggqMqtJRZVY1JSxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Responsibility
 
-# Discussion
+From 12 Rules for Life by Jordan Peterson
 
-# Homework
+I had a client who did not have good parents. Her mother died when she was very young. Her grandmother, who raised her, was a harridan, bitter and over-concerned with appearances. She mistreated her granddaughter, punishing her for her virtues: creativity, sensitivity, intelligence—unable to resist acting out her resentment for an admittedly hard life on her granddaughter. She had a better relationship with her father, but he was an addict who died, badly, while she cared for him. My client had a son. She perpetuated none of this with him. He grew up truthful, and independent, and hard-working, and smart. Instead of widening the tear in the cultural fabric she inherited, and transmitting it, she sewed it up. She rejected the sins of her forefathers. Such things can be done. 
+ 
+<blockquote>
+   Distress, whether psychic, physical, or intellectual, need not at all produce nihilism (that is, the radical rejection of value, meaning and desirability). Such distress always permits a variety of interpretations.  </br>
+    <cite>—Nietzsche</cite>
+</blockquote>
+
+Nietzsche wrote those words.114 What he meant was this: people who experience evil may certainly desire to perpetuate it, to pay it forward. But it is also possible to learn good by experiencing evil. A bullied boy can mimic his tormentors. But he can also learn from his own abuse that it is wrong to push people around and make their lives miserable. Someone tormented by her mother can learn from her terrible experiences how important it is to be a good parent. Many, perhaps even most, of the adults who abuse children were abused themselves as children. However, the majority of people who were abused as children do not abuse their own children. This is a well-established fact, which can be demonstrated, simply, arithmetically, in this way: if one parent abused three children, and each of those children had three children, and so on, then there would be three abusers the first generation, nine the second, twenty-seven the third, eighty-one the fourth—and so on exponentially. After twenty generations, more than ten billion would have suffered childhood abuse: more people than currently inhabit the planet. But instead, abuse disappears across generations. People constrain its spread. 
+That’s a testament to the genuine dominance of good over evil in the human heart. 
+
+The desire for vengeance, however justified, also bars the way to other productive thoughts. The American/English poet T. S. Eliot explained why, in his play, The Cocktail Party. One of his characters is not having a good time of it. She speaks of her profound unhappiness to a psychiatrist. She says she hopes that all her suffering is her own fault. The psychiatrist is taken aback. He asks why. She has thought long and hard about this, she says, and has come to the following conclusion: if it’s her fault, she might be able to do something about it. If it’s God’s fault, however—if reality itself is flawed, hell-bent on ensuring her misery—then she is doomed. She couldn’t change the structure of reality itself. But maybe she could change her own life.
+
+# Discussion
+Willink disucsses an operation for which he was actually in charge of, for which the responsiblity was indeed his. Whearas he could have blame shifted, he ultimately would have been held responsbile for the disaterous outcome either way. The story Peterson tells, involves a story of unfortunate abuse. 
+
+So there are perhaps two catagories of events. Events that we are actually, and perhaps obvioulsy responsible for, and events that we are not obviously responsbile for. Being in charge of company that is suffering major losses vs being an obvious victim of an attack or abuse. Responsiblity that we should naturally own, and taking responsibility even when it is not your fault. 
+
+What traumas, travesties or even unfortunate events in our life have we blamed for our short comings and failure? Are there any mistakes in your life that you have not yet accepted responsiblity for? How could accepting responsiblity for that change the way you choose to act in the future?
+
+# Homework 
+Think of someone you may have had a falling out with. Think about what may have caused the falling out. Consider reaching out to that person and apologizing for whatever part you may have had in the end of that relationship.
 
 # Further Reading
-- **[Extreme Ownership](https://amzn.to/47xgOEE)**
+**[Extreme Ownership](https://amzn.to/47xgOEE)**
   - *Author:* Jocko Willink 
   - *Publication Date:* 2015
+
+**[12 Rules for Life](https://amzn.to/47sUOuL)**
+  - *Author:* Jordan Peterson
+  - *Publication Date:* 2018
