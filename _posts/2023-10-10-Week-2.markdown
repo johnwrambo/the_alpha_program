@@ -5,7 +5,6 @@ date:   2023-10-08
 categories: TAP
 ---
 
-
 <blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
     <strong style="color: black;">“Until you make the unconscious conscious, it will direct your life and you will call it fate.”</strong>
 </blockquote>
@@ -61,4 +60,3 @@ Download and complete the spreadsheet.
 <a href="https://docs.google.com/spreadsheets/d/1540OWR_ovXGzMKe52IwYAkiUbdNfrvl2/edit?usp=drive_link&ouid=116126842740869295492&rtpof=true&sd=true" download>Download Organization Spreadsheet</a>
 
 
-[Video-Primer]: https://www.youtube.com/watch?v=tGdsOXZpyWE

@@ -6,3 +6,14 @@ categories: TAP
 ---
 
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/ljqra3BcqWM?si=ggqMqtJRZVY1JSxE" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Responsibility
+
+# Discussion
+
+# Homework
+
+# Further Reading
+- **[Extreme Ownership](https://amzn.to/47xgOEE)**
+  - *Author:* Jocko Willink 
+  - *Publication Date:* 2015

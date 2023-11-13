@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 6: Addiction"
+title:  "Week 6: Addictions"
 date:   2023-10-24
 categories: TAP
 ---
@@ -25,14 +25,17 @@ How do I know if I need to quit something? What comes to your mind when the ques
 Environment matters. The people you hang around with matter. You bad habits and addictions you have might be strongly informed by either or both of these factors. Instead on simply focusing on stopping the bad behaviour, try on changing the formula that leads to the addiction to begin with. Then fill that void with something better. 
 
 # Discussion
-
 Homework 5 Review: Share one of your goals and associated habit plan/formula. 
 
 Think about the Rules of Habit change from last week. How can you reverse each rule in application to stopping bad habits and addictions. 
 
 # Homework
-
 In Huberman's video the statistic of "30 days" was cited as the average amount of time that the brain takes to reset reward pathways. Key word there is average, so results may vary. You may take less time, or you may take more time. Think of the most mild bad habit you can think of, that you wish to quit and commit to at least a 4 week fast of that thing. Keep a log of any relapses and try to keep to the rule of "never two". That is if you slip up once, don't allow yourself to slip twice in a row.
 
 
+Add the Lobster story from 12 rules for life. Add vietnam study about american soldiers 
 
+# Further Reading
+**[Atomic Habits](https://amzn.to/47vRHCk)**
+  - *Author:* James Clear
+  - *Publication Date:* 2018

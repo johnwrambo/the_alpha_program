@@ -4,6 +4,7 @@ title:  "Week 7: Organization"
 date:   2023-10-26
 categories: TAP
 ---
+
 <blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
     <strong style="color: black;">Anxiety is caused by a lack of control, organization, preparation, and action.</strong>
 </blockquote>
@@ -103,4 +104,14 @@ What are your thoughts on organization? What has your relationship been towards 
 
 # Homework
 Clean your room and see what happens. 
+
+# Further Reading
+
+**[Getting Things Done](https://amzn.to/3FX0tNR)**
+  - *Author:* David Allen 
+  - *Publication Date:* 2001
+
+**[Unstuff Your Life](https://amzn.to/3SGb5sc)**
+  - *Author:* Andrew J. Mellen
+  - *Publication Date:* 2010
 

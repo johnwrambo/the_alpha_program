@@ -5,7 +5,6 @@ date:   2023-10-22
 categories: TAP
 ---
 
-
 <blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
     <strong style="color: black;">“You could leave life right now. Let that determine what you do and say and think.”</strong>
 </blockquote>

@@ -5,7 +5,6 @@ date:   2023-10-15
 categories: TAP
 ---
 
-
 <blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
     <strong style="color: black;">“You’re not everything you could be, and you know it.”</strong>
 </blockquote>
@@ -72,13 +71,6 @@ Your mission and vision statements should reflect your personal aspirations and 
 6. Keep It Clear and Concise:
 
 Both statements should be clear and concise, making them easy to remember and communicate.
-
-
-
-
-
-
-
 
 
 
