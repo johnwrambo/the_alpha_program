@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Homework
-permalink: /overview/
+permalink: /Homework/
 ---
 
 # Week 1 
