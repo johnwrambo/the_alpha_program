@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Week 9: Discipline"
-date:   2023-12-03
+date:   2023-11-28
 categories: TAP
 ---
 
@@ -11,3 +11,49 @@ categories: TAP
 <cite style="text-align: right; display: block;">—EPICTETUS</cite>
 
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/eBmVv2P-v2s?si=pZY2-lN50RG-8_SS" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+# Discipline
+
+verb
+disciplined; disciplining
+transitive verb<br>
+**1**: to punish or penalize for the sake of enforcing obedience and perfecting moral character <br>
+**2**: to train or develop by instruction and exercise especially in self-control<br>
+**3a**: to bring (a group) under control
+discipline troops<br>
+**3b**: to impose order upon
+
+Discipline comes from discipulus, the Latin word for pupil, which also provided the source of the word disciple (albeit by way of a Late Latin sense-shift to “a follower of Jesus Christ in his lifetime”). Given that several meanings of discipline deal with study, governing one’s behavior, and instruction, one might assume that the word’s first meaning in English had to do with education. In fact, the earliest known use of discipline appears to be punishment-related; it first was used in the 13th century to refer to chastisement of a religious nature, such as self-flagellation. - Merriam Webster's Dictionary
+
+**From Meditations by Marcus Aurelius**
+
+<p>At dawn, when you have trouble getting out of bed, tell yourself: “I have to go to work—as a human being. What do I have to complain of, if I’m going to do what I was born for —the things I was brought into the world to do? Or is this what I was created for? To huddle under the blankets and stay warm?</p> 
+
+—But it’s nicer here. . . . 
+
+<p>So you were born to feel “nice”? Instead of doing things and experiencing them? Don’t you see the plants, the birds, the ants and spiders and bees going about their individual tasks, putting the world in order, as best they can? And you’re not willing to do your job as a human being? Why aren’t you running to do what your nature demands?</p> 
+
+—But we have to sleep sometime. . . . 
+
+<p>Agreed. But nature set a limit on that—as it did on eating and drinking. And you’re over the limit. You’ve had more than enough of that. But not of working. There you’re still below your quota.</p> 
+
+<p>You don’t love yourself enough. Or you’d love your nature too, and what it demands of you. People who love what they do wear themselves down doing it, they even forget to wash or eat. Do you have less respect for your own nature than the engraver does for engraving, the dancer for the dance, the miser for money or the social climber for status? When they’re really possessed by what they do, they’d rather stop eating and sleeping than give up practicing their arts.</p> 
+
+
+What is your character?
+
+
+<img src="/images/character.PNG" width="300" height="200">
+<img src="/images/character3.gif">
+<img src="/images/character2.JPG">
+
+There is more truth to these comic strips than you might know. When we do something we don't want to do, we build the mental muscle of doing things we don't want to do. And what is life, if not a series of increasingly difficult challenges. When we learn to do the difficult, we level up, when we become comfortable with the difficult, we level up even more. When we always succumb to the feeling of "I want to go back to sleep", we never learn the power of self-control, which is discipline, the power to say no to your baser self, to do what you need to do despite not wanting to. Desire is not required, motivation is not required, only action is required for action. 
+
+# Discussion
+
+What does it mean, "The true man is revealed in difficult time"?
+What areas of your life do you struggle with discipline? What are typical excuses that you use to forgive yourself for failing to follow through. Discipline is the both the act, the art and the state of doing the difficult, or even mundane. What new things can you tell yourself to defeat your excuses?
+
+# Homework
+Do something you hate. Being miserable builds character. 
+
