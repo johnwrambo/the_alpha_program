@@ -43,9 +43,9 @@ Discipline comes from discipulus, the Latin word for pupil, which also provided 
 What is your character?
 
 
-<img src="/Images/character.PNG" width="300" height="200">
-<img src="/Images/character3.gif">
-<img src="/Images/character2.jpg">
+<img src="/images/character.PNG" width="300" height="200">
+<img src="/images/character3.gif">
+<img src="/images/character2.JPG">
 
 There is more truth to these comic strips than you might know. When we do something we don't want to do, we build the mental muscle of doing things we don't want to do. And what is life, if not a series of increasingly difficult challenges. When we learn to do the difficult, we level up, when we become comfortable with the difficult, we level up even more. When we always succumb to the feeling of "I want to go back to sleep", we never learn the power of self-control, which is discipline, the power to say no to your baser self, to do what you need to do despite not wanting to. Desire is not required, motivation is not required, only action is required for action. 
 
@@ -55,5 +55,5 @@ What does it mean, "The true man is revealed in difficult time"?
 What areas of your life do you struggle with discipline? What are typical excuses that you use to forgive yourself for failing to follow through. Discipline is the both the act, the art and the state of doing the difficult, or even mundane. What new things can you tell yourself to defeat your excuses?
 
 # Homework
-Do something you hate. Being miserable builds character. 
+Do something you hate. Being miserable builds character.
 

@@ -32,3 +32,6 @@ Clean your room and see what happens.
 
 # Week 8
 Think of someone you may have had a falling out with. Think about what may have caused the falling out. Consider reaching out to that person and apologizing for whatever part you may have had in the end of that relationship.
+
+# Week 9
+Do something you hate. Being miserable builds character. 
