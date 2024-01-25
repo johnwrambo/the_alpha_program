@@ -51,7 +51,7 @@ Debt Management: Do you have any outstanding debts? How are you managing them, a
 
 Financial Education: How knowledgeable do you feel about financial matters such as budgeting, investing, and saving? Are there areas where you feel you could benefit from more education or advice?
 
-Financial Goals: What are your short-term and long-term financial goals? Are your current financial habits aligned with these goals?
+Financial Goals: Do you have short-term and long-term financial goals? If you do, are your current financial habits aligned with these goals?
 <br>
 
 **Health and Fitness**<br>
@@ -93,19 +93,55 @@ Write as many paragraphs as needed to examine your current interpersonal relatio
 
 Do you have close friends that you regularly exchange phone calls with? People you can share and trust intimate details of your life with? List your top 5 positive relationships in your life and the bottom 5. Try to identify common denominators in all of them. Can you determine what would predict a positive or negative relationship for you?
 
+Personal Relationships questionarre. 
 
+Sharing Intimate Details: How many friends do you have in  your life that you are comfortable sharing intimate or personal details with?
+
+Frequency of Communication: How many friends or family members do you exchange regular phone calls with? 
+
+Social Interactions: How often do share meals together with friends in your homes? 
+
+Mutual Support: How many individuals in your social circle actively offer support or assistance when you need it? Conversely, how often do you find yourself offering support to them?
+
+Shared Activities and Interests: With how many friends or family members do you regularly engage in shared activities or hobbies? 
+
+Emotional Availability: Consider the people in your life: how many are emotionally available and responsive when you need someone to talk to?
+
+Trust in Crisis: In a crisis or emergency, how many individuals in your social circle would you trust to help you? 
+
+Longevity of Relationships: Reflect on the duration of your current close relationships. How many have lasted more than a year, five years, or even longer?
+
+Reciprocity of Relationship: In how many of your close relationships do you feel there is a mutual give-and-take? This can reflect the balance and health of the relationship.
 <br>
 
 
-**Faith** <br>
+**Beliefs and Faith** <br>
 
 I am a firm believer in belief. And that we all have faith in something, and we are all religious, even if we don't think we are. As a believer in Jesus Christ, myself, I think it is important that we all examine the role that faith has in our life to give us all a moral center, a north star, and guiding principles to live by. Alexander Hamiliton is credited for saying, "If you don't stand for something, you will fall for anything". A man without a firm belief or deep conviction in something is like a rudderless ship.
 
 Allow me to define belief for you. Belief is that way of thinking that causes action. Belief without action is like just your opinion man. It is ultimately meaningless. In the Bible, James tells us that faith without works is dead. This is what he means here. Faith is only faith, if there is an action associated with it. So examine your faith, your beliefs. If someone could only examine your life, could they determine, by that metric of action, what you believe? What do you believe in that you are not currently acting in accordance with?
 
+Belief and Faith Questionnaire:
 
+Core Belief Identification: What is the central core belief or truth that you hold above all else? Describe this foundational principle and its significance in your life.
 
+Actions Reflecting Beliefs: Reflecting solely on your actions, what beliefs do these actions suggest you hold? Consider regular and recurring behaviors and what they indicate about your underlying values.
 
+Beliefs Without Actions: Are there beliefs you claim to hold that aren't reflected in your consistent actions? Identify these beliefs and the absence of corresponding behaviors.
+
+Conflict Between Beliefs and Actions: What behaviors or actions do you engage in that are in direct conflict with your stated beliefs? How do you reconcile this disparity?
+
+Influence of Environment on Beliefs: How does your environment (work, home, social circles) influence your core beliefs and actions? Are there aspects of your environment that challenge or reinforce your beliefs?
+
+Beliefs Shaping Relationships: How do your core beliefs shape your relationships with others? Are there relationships that particularly strengthen or test your beliefs?
+
+Adapting Beliefs Over Time: Have your core beliefs evolved over time? Reflect on significant life experiences that have led to a shift in your beliefs.
+
+Impact of Beliefs on Decision-Making: How do your core beliefs influence your decision-making process in various aspects of life (career, relationships, personal goals)?
+
+Consistency in Belief Expression: How consistently do you express your core beliefs across different settings and with different people?
+
+Aligning Actions with Beliefs: What steps could you take to better align your actions with your core beliefs? Consider changes in habits, communication, or environment that might be necessary.
 # Discussion: 
 In all of your journaling, what was something you realized about your life? Did you come to any new conclusions? 
 
