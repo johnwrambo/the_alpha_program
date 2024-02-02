@@ -1,37 +1,119 @@
 ---
 layout: post
-title:  "Week 4: Procrastination"
+title:  "Week 4: Habits"
 date:   2023-10-22
 categories: TAP
 ---
 
 <blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
-    <strong style="color: black;">“You could leave life right now. Let that determine what you do and say and think.”</strong>
+    <strong style="color: black;">“We are what we repeatedly do. Excellence, then, is not an act, but a habit.”</strong>
 </blockquote>
-<cite style="text-align: right; display: block;">—Marcus Aurelius</cite>
+<cite style="text-align: right; display: block;">—ARISTOTLE</cite>
 
-<iframe width="100%" height="405" src="https://www.youtube.com/embed/arj7oStGLkU?si=yeUWuZOc3YrcdVaN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/mNeXuCYiE0U?si=lZed0Py7YgZ2QV6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="100%" height="405" src="https://www.youtube.com/embed/Jbt6VGOYU3E?si=mqOq0D8V85S6p6oI" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="315" src="https://www.youtube.com/embed/Wcs2PFz5q6g?si=TxL0WGyECCOOpWPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Procrastination
+# Systems and Habits
 
-**We are all gonna die**
+**Who do you want to be?**
 
-I once dreamt of a reality where I no longer existed. Floating above, I witnessed my own family shattered by my absence. There they were, crushed, in utter disbelief that I was gone. My heart broke. Who would guide my son through life now? The stark finality of my own mortality weighed heavily upon me; I had crossed the river, embarked on that last, forever journey—death.
+Charles Duhigg and James Clear are to leading writers concerning habit formation. I highly recommend both of their books, "The Power of Habit" and "Atomic Habits," respectively. This week's content will attempt to summarize the most important parts of their works. However there should be no subsitute for reading their books for yourself.
 
-I pleaded with God, begging for just one more chance, to hold my family once again. However I was all too aware of the impossible nature  of my request; I was dead after all. But just as I began to reconcile with this unbearable truth, I awoke. Alive and sobbing, in my own bed, next to my beloved and very much living wife.
+The most important thing when it comes to character development is recognizing that we are the things that we do. The things that we do the most, the most common behaviors, are the things that shape us the most, and the things that we do the most are the habits that we keep. So if we want to change our character, then we simply need to change our habits. Of course, this is easier said than done.
 
-Eagerly, I wrapped my arms around my family, pressing my lips against their foreheads, overwhelmed with gratitude. My desperate prayers, it seemed, had been answered. I was dead, and now I was alive again. 
+So, who do you want to be? Men are not known for the fact that they simply existed; they are known for the things they have done. So who you want to be will be defined by what you do, those patterns of behaviors that you repeat again and again; the habits you keep.
 
-In my dream a prayed for life, and I awoke alive. How can I say that this dream was not real? 
+Goal setting, then, is absolutely necessary to set your north star, but if you have ever set a goal and failed to complete it, you may be all too acutely aware that it's simply not enough to just set a goal. What you need is a path to get there, a plan to achieve your goal.
 
-We will all die someday, the final deadline. As we all continue to consider the goals we wish to acomplish and the changes we wish to make, let us be reminded that we do not have forever to acomplish them, our time is quite short. 
+This is why the question of identity is important. Think about the examples James Clear provides here:
 
-So let's all remember that our lives our short, and everyday that we wake up is our second chance to do more and to do better. Let us not waste it. 
+- The goal is not to read a book; the goal is to become a reader.
+- The goal is not to run a marathon; the goal is to become a runner.
+- The goal is not to learn an instrument; the goal is to become a musician.
+
+Think about who you want to be, then think about what that person does. 
+
+Charles Duhigg describes the habit loop as: cue, routine, reward.
+
+You see a cookie (cue), you eat the cookie (routine), you experience the dopamine from the sugar (reward). Some kind of dopamine is almost always the reward so far as I can tell. It's important to understand how habits work in order to best understand how to both form new habits and to break bad habits or addiction, which we will discuss next week. For now, we will mainly focus on building new and desirable habits.
+
+It is essential we really know who we want to be, in the words of Jordan Peterson, that our goals are sharp and clear. And our goals should be a function of who we want to be, so it is further essential that we know who that is. The habits that we want to form should be centered on the idea of identity. Becoming someone who is fit, becoming someone who is intelligent, becoming someone who is financially independent, Clear says.
+
+One thing you should notice, if you haven't noticed yet, is that with everything we are doing and trying to do, has to deal with thinking about things on a higher level. We want to take time to exercise deliberate executive thinking. To take time regularly to anticipate and plan what we are going to do and how we are going to do them. Most of our lives are lived out on automatic, auto-pilot. Most of decisions already decided, even if they weren't decided deliberately. Think about writing a program for yourself, a script that you will follow when presented with various situations, or at various times of the day.
+
+
+James Clear has 4 Rules for goal setting.
+
+**Make it Obvious**
+Think about the habits you want to make, and think about ways to make, at least being reminded of the habit, unavoidable. If you want to remember to take something with you to work every day, maybe keep that thing with your keys, then you wouldn't even be able to leave the house without seeing it. Or perhaps it's leaving a book on your nightstand to remind yourself to read before you go to bed.
+
+**Make it Attractive**
+This may not always be possible or easy, but the two methods Clear describes are habit stacking and habit bundling, which is pairing a new good habit with another indulgent but non-destructive habit, such as watching TV shows while on a cardio machine, which is something I have actually done with great effectiveness. I watched the entire Game of Thrones series while doing cardio in the gym.
+
+**Make it Easy**
+Make your habit goals something that is literally easy to do. Clear uses the example of making it your goal to simply go outside and put on your running shoes rather than setting a goal of running for any particular time or distance. But as you progress, you can naturally add to your goal by adding more and more.
+
+**Make it Satisfying**
+This really might just come down to a shift in mindset. There may not be anything inherently satisfying about getting up at 415 AM to be CrossFit at 5 AM, but I have found it to be incredibly satisfying to be done with my workout for the day by 6 AM, having not to worry about it for the rest of the day. This might be hard when you first start, but the main thing here is to remember the long-term goal you are working towards and realize that you may not be satisfied right now, but future you will benefit and be satisfied by the sacrifices that current you is making by waking up at 5 AM. And with respect to exercise, at least, stick with it long enough, and slowly you will eventually begin to see results. And as you begin to associate your exercise with the physical and very real results that you see
+in the mirror, it will become more satisfying and easier to continue.
+
+<center><strong>Habit Formulas</strong></center>
+
+<div style="text-align: center;">
+    <div style="border: 1px solid #333; padding: 10px; display: inline-block; color: black;">
+        <p style="margin: 0 0 10px;">
+            When <strong>[X]</strong> happens, I will do <strong>[Y]</strong>
+        </p>
+        <p style="margin: 0 0 10px;">
+            I will <strong>[BEHAVIOR]</strong> at <strong>[TIME]</strong> in <strong>[LOCATION]</strong>
+        </p>
+        <p style="margin: 0 0 10px;">
+            After <strong>[CURRENT HABIT]</strong>, I will <strong>[NEW HABIT]</strong>.
+        </p>
+        <p style="margin: 0;">
+            After <strong>[HABIT I NEED]</strong>, I will <strong>[HABIT I WANT]</strong>
+        </p>
+    </div>
+</div>
+
+<br>
+
+<blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
+    <strong style="color: black;">“When performance is measured, performance improves. When performance is measured and reported back, the rate of improvement accelerates.”</strong>
+</blockquote>
+<cite style="text-align: right; display: block;">Pearson's Law</cite>
+
+
+# Practical
+
+Tracking is key whenever embarking on a new endeavor. It’s the best way to know if and how something is working or improving. Pearson’s law states that “what is measured, improves”. So track and measure as much as you can during this process.
+
+For each of your goals, write down any associated habit that you can think of that could move you toward achieving your goal. If your goal is to lose body fat and achieve a body particular body fat percentage. The first associated habit that I would recommend for this is to simply just start tracking your body weight, and your body fat percentage. Track weight multiple times a day, and body fat weekly. You can also aim for other habits such as daily cardio of 30 minutes a day. 
+
+It should look something like this:
+
+Goal: 
+Achieve a 10% Body Fat
+
+Habits: 
+Weigh myself 3 times a day and record weight. First thing in the morning when I wake up, when I come home from work or school, right before I go to bed.
+Record my body fat percentage once a week using a prescribed method, either tape or calipers. 
+Perform 30 minutes of cardio Monday through Friday. 
+
+Do this exercise for each goal that you have, and then begin implementing and tracking the habits. You may use your journal or notebook, or alternatively you can use this great free app that I have found for tracking and sharing your habits with others for increased accountability. 
+
+You can download [Habit Share here](https://habitshareapp.com)
+
+<iframe sandbox="allow-popups allow-scripts allow-modals allow-forms allow-same-origin" style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-na.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=US&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=jrambo0e-20&language=en_US&marketplace=amazon&region=US&placement=B07RFSSYBH&asins=B07RFSSYBH&linkId=ef30b2427e38db8d07df7c83d3d94c96&show_border=true&link_opens_in_new_window=true"></iframe>
 
 # Discussion
-What do you think of the life calendar? Does this help you think about mortality in a new way? How? What long term goal in your life do you have that you keep putting off? 
 
-# Homework
-Pick one project on your to do list that you could acomplish this week and do it. 
+Homework 3 Review: discuss your mission and vision statements from week 3 goal setting. 
+
+Did anything from the videos resonate with you? What has your experiences with habits been? Have you ever successfully started a new habit that was historically difficult for you? How did you accomplish this?
+
+# Further Reading
+**[Atomic Habits](https://amzn.to/47vRHCk)**
+  - *Author:* James Clear
+  - *Publication Date:* 2018

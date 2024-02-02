@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 8: Responsiblity"
+title:  "Week 8: Responsibility"
 date:   2023-11-26
 categories: TAP
 ---
