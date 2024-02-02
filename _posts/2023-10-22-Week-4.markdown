@@ -12,7 +12,7 @@ categories: TAP
 
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/mNeXuCYiE0U?si=lZed0Py7YgZ2QV6b" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-<iframe width="100%" height="315" src="https://www.youtube.com/embed/Wcs2PFz5q6g?si=TxL0WGyECCOOpWPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="100%" height="405" src="https://www.youtube.com/embed/Wcs2PFz5q6g?si=TxL0WGyECCOOpWPK" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 # Systems and Habits
 
