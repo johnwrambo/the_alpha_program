@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Week 6: Addictions"
+title:  "Week 6: Temperance"
 date:   2023-11-05
 categories: TAP
 ---
@@ -14,20 +14,46 @@ categories: TAP
 
 <iframe width="100%" height="405" src="https://www.youtube.com/embed/d-0KfwFCMRM?si=I0oKU8nn3aRyxdvu" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
-# Addiction
+# Temperance 
 
-**Breaking the bad habits**
+**Finding balance, regulating negative behaviours, breaking addictions and bad habits**
 
-Just as much as we need to form good new habits to move forward, we also need to break our bad habits and or addictions. Be it video games, social media, porn, alcohol, tobacco, gabling, or weed or other drugs or anything else that , there are likely at least one or more bad habits or addictions that you might need to break. 
 
-How do I know if I need to quit something? What comes to your mind when the question is asked? Has anyone told you that you need to quit something? Have you told yourself that you should quit something, or at least do it less? I believe that most people are acutely aware of those vices they posses that they need to quit. Whatever they are, you should list them all in on your goal sheet as things to quit. 
+In our exploration of personal growth, we've emphasized the importance of nurturing character traits and behaviors that align with our aspirations. This journey isn't just about acquiring what we lack but also valuing what we already possess. A critical step in this process involves a thorough assessment of our current behaviors, pinpointing those that are undesirable, distasteful, and downright abhorrent. Recognizing these aspects allows us to set a foundation for meaningful change.
 
-Environment matters. The people you hang around with matter. You bad habits and addictions you have might be strongly informed by either or both of these factors. Instead on simply focusing on stopping the bad behaviour, try on changing the formula that leads to the addiction to begin with. Then fill that void with something better. 
+The principle of temperance plays a vital role in this endeavor, guiding us toward moderation and restraint. To embody temperance is to exercise self-regulation, particularly in matters of consumption. The substance of our character is, in large part, shaped by what we consume—be it literature, media, food, or substances like alcohol and drugs. Pursuing temperance, therefore, is not merely about eliminating negative habits but also about finding a balanced approach to engaging with potentially beneficial yet addictive activities.
+
+
+<blockquote style="background-color: #f4f4f4; border: 1px solid #333; padding: 10px; text-align: center;">
+    <strong style="color: black;">"Everything in moderation, including moderation."</strong>
+</blockquote>
+<cite style="text-align: right; display: block;">—OSCAR WILDE</cite>
+
+Life's balance is delicate, much like the narrow ranges within which essentials like water, sunlight, and air become conducive to life. An imbalance, whether it's a surplus or deficiency, can disrupt the equilibrium necessary for our well-being. This delicate balance mirrors our own efforts to navigate the good and the bad in our personal development journey. Maximizing positive influences while minimizing the negative ones requires discernment, a skill developed through reflection and honest self-assessment. Reflecting on our initial self-awareness explorations can reveal negative behaviors and influences that we must address to move forward.
+
+The path to self-improvement is fraught with challenges, often making it tempting to cling to familiar vices. However, recognizing the necessity to let go of certain habits or influences—no matter how difficult—marks the beginning of true growth. This realization prompts us to question which of our behaviors need outright elimination and which social interactions fail to serve our higher purpose. Identifying these elements is the first step; the harder task is committing to change, especially when it involves distancing ourselves from negative influences.
+
+Ultimately, our environment and the company we keep play significant roles in shaping our habits and, by extension, our lives. Breaking free from harmful patterns isn't just about stopping a behavior but also about transforming the underlying conditions that foster these habits. By filling the void left by eliminated vices with positive alternatives, we pave the way for a more balanced, fulfilling life. This journey of self-improvement, while challenging, is a testament to our capacity for change and growth, urging us always to strive for a better version of ourselves.
+
+**Temperance Reflection**
+
+Identify Bad Habits: What are three habits you engage in regularly that you believe might not be serving your well-being? Why do you think they're negative?
+
+Substance Use: How often do you consume substances like alcohol, tobacco, or recreational drugs? Have you ever felt the need to cut back? 
+
+Time Management: Reflect on how you spend your free time (e.g., screen time, hobbies, socializing). Are there activities that dominate more time than you'd like? Why?
+
+Emotional Responses: When faced with stress or negative emotions, what are your go-to coping mechanisms? Do you consider these healthy in the long term?
+
+Social Influences: Think about your social interactions. Are there relationships that encourage behaviors you're trying to change? How do these relationships impact your efforts?
+
+Self-Reflection on Change: What is one area in your life where you recognize a need for more temperance or moderation? Why is change needed, and what challenges do you foresee?
+
+Action Steps: Based on your reflections, what is one concrete step you can take this week to address a negative habit or area of your life where temperance is needed?
 
 # Discussion
-Homework 5 Review: Share one of your goals and associated habit plan/formula. 
 
-Think about the Rules of Habit change from last week. How can you reverse each rule in application to stopping bad habits and addictions. 
+Think about the Rules of Habit from Week 4. How can you reverse each rule in application to stopping bad habits and addictions. 
 
 # Homework
 In Huberman's video the statistic of "30 days" was cited as the average amount of time that the brain takes to reset reward pathways. Key word there is average, so results may vary. You may take less time, or you may take more time. Think of the most mild bad habit you can think of, that you wish to quit and commit to at least a 4 week fast of that thing. Keep a log of any relapses and try to keep to the rule of "never two". That is if you slip up once, don't allow yourself to slip twice in a row.
